@@ -1,0 +1,25 @@
+{
+  "name": "wximg",
+  "version": "0.0.1",
+  "description": "wei xin sheng cheng tu pian ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgy03916618421/wxImg.git"
+  },
+  "keywords": [
+    "img"
+  ],
+  "author": "zhougy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgy03916618421/wxImg/issues"
+  },
+  "homepage": "https://github.com/zgy03916618421/wxImg#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
